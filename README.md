@@ -19,7 +19,9 @@ This app uses the **Google Translate API** (via the `googletrans` library) to tr
 
 ## 📸 Preview
 
-![Screenshot](screenshot.png)  
+![Screenshot](<img width="1710" alt="Screenshot 2025-04-08 at 3 04 28 PM" src="https://github.com/user-attachments/assets/18a803ce-fb62-439c-82e1-cb2112659ef4" />
+<img width="1710" alt="Screenshot 2025-04-08 at 3 04 28 PM" src="https://github.com/user-attachments/assets/3102661a-487c-4146-abad-ac0321a9f87d" />
+
 *(Add your app screenshot here)*
 
 ---
